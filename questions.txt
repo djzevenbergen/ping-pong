@@ -1,3 +1,4 @@
 what is the difference between ecmaVersion: 6 and 2018
 what is the purpose of webpack-dev-server vs running index.html or liveserver vs localhost
 and what is the difference between curlies vs no curlies in the webpack.config.js
+what would happen if we had false or nontrue
