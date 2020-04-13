@@ -22,6 +22,7 @@ module.exports = {
       inject: 'body'
     })
   ],
+
   module: {
     rules: [
       {
